@@ -2,7 +2,7 @@
  * Definition of linked list:
  *
  * class Node {
- * public:
+ * public: 
  *      int data;
  *      Node *next;
  *      Node() {
